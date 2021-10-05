@@ -1,7 +1,7 @@
 [
     {
       "id": 201012,
-      "title": "Basic to advanced HTML and CSS",
+      "title": "Advanced HTML and CSS",
       "picture": "https://i.ibb.co/TgNh8pj/htmlandcss.jpg",
       "price": 69,
       "language": "English",
